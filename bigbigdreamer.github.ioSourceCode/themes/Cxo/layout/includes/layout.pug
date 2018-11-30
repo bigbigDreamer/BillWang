@@ -1,0 +1,25 @@
+doctype html
+
+html(lang=config.language)
+  include partial/head.pug
+  body
+    include partial/profile.pug
+    include partial/header.pug
+    article#cxo-content-outer.cxo-up
+      section#cxo-content-inner
+        if body
+          div!= body
+        else
+          block content
+    include partial/footer.pug
+    // catelog
+    if is_post() && theme.toc 
+      - let tocTop = typeof theme.intro_height === 'number' ? theme.intro_height : 60
+      - let tocStyle = `top: ${tocTop}vh;`
+      .toc-wrapper(style = tocStyle)
+        .toc-catalog
+          i.fa.fa-list 
+          span CATALOG
+        != toc(page.content, {class: 'toc', list_number: true})
+    // top
+    i.fa.fa-arrow-up#go-up.close(aria-hidden="true")

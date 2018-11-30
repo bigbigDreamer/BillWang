@@ -1,0 +1,23 @@
+extends includes/layout.pug
+
+block content
+  article#post.article-entry
+    != page.content
+  // lincense
+  if(theme.copyright.enable === true && page.copyright !== false)
+    .license-wrapper
+      p 
+        span Author:  
+        a(href=config.url)= config.author
+      p 
+        span Link:  
+        a(href=page.permalink)= page.permalink
+      p 
+        span Copyright:  
+        span!= theme.copyright.license
+  include includes/partial/post-nav.pug
+  #comment
+    include includes/comment/livere.pug
+    include includes/comment/disqus.pug
+    include includes/comment/changyan.pug
+    include includes/comment/gitment.pug
