@@ -51,5 +51,4 @@ tags:
 >&emsp;&emsp;同理，给module.exports赋值会断开与exports的联系，因为无论如何最终返回的都是module.exports。
 
 ### 惯性思维
-
 >&emsp;&emsp;exports被创建出来的意义是为了简化写法，至于想用谁，那就需要适当的根据场景去抉择。如果一个模块需要导出而非挂载，则需要使用`module.exports`。
