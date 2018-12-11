@@ -1,9 +1,12 @@
 ---
 title: DMZ(demilitarized zone,非军事区)
 date: 2018-11-18 15:26:19
+categories:
+- ES6
 tags:
     - DMZ
     - scope
+cover_picture: images/JS.jpg
 ---
 
 ## DMZ介绍

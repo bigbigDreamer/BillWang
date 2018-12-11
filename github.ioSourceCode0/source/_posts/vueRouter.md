@@ -1,10 +1,13 @@
 ---
 title: vue-router
 date: 2018-11-07 11:15:43
+categories:
+- Vue-Router
 tags:
  - vue-router
  - vue
  - vue-cli3.0
+cover_picture: images/vue.png
 ---
 
 >&emsp;&emsp;关于vue-router，还有一部分知识需要我去回顾。

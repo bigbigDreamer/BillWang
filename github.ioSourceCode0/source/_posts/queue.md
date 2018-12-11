@@ -1,10 +1,13 @@
 ---
 title: queue模拟
 date: 2018-11-10 23:16:19
+categories:
+- ES6
 tags:
  - queue
  - es6
  - 数据结构
+cover_picture: images/JS.jpg
 ---
 
 ### 前言

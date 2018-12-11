@@ -1,10 +1,13 @@
 ---
 title: JS模块机制
 date: 2018-11-28 21:07:40
+categories:
+- ES6
 tags:
   - JS模块化
   - ES6
   - 封装
+cover_picture: images/Node.png
 ---
 
 ## 前言

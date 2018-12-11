@@ -5,11 +5,8 @@ date: 2018-11-02 15:02:08
 
 ### :cupid:个人信息
 
-> <table  border='0' style="margin-top: -60px">
- <td style="width:100px;height:50px;margin-top=0;">
+> 
  ![alt](someDetails/photo.jpg)
- </td>
- </table>
 >
 >姓名：王彬林
 >

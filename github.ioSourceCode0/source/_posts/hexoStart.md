@@ -1,10 +1,8 @@
 ---
 title: 从零搭建个人博客
 categories:
-- 经验
-photos:
-- img/blog1.png
-- ''
+- 经验	
+cover_picture: images/hexostart.jpg
 tags:
 - Hexo
 - github

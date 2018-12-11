@@ -1,8 +1,11 @@
 ---
 title: 寻找句子中最长的单词
 date: 2018-11-11 15:17:31
+categories:
+- ES6
 tags:
  - ES6
+cover_picture: images/JS.jpg
 ---
 
 ### 题目要求

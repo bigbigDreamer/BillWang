@@ -1,10 +1,13 @@
 ---
 title: vue @cli3.0的配置
 date: 2018-11-05 09:44:28
+categories:
+- Vue
 tags:
  - Vue
  - webpack
  - vue @cli3.0
+cover_picture: images/vue.png
 ---
 ## 开心一刻
 

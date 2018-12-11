@@ -1,6 +1,8 @@
 ---
 title: CNAME配置
 date: 2018-11-03 02:03:41
+categories:
+- 经验
 tags:
  - git
  - 腾讯云

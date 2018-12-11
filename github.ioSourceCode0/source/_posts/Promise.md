@@ -1,10 +1,13 @@
 ---
 title: Promise探析
 date: 2018-11-06 14:56:54
+categories:
+- ES6
 tags:
  - Promise
  - DOM
  - ES6
+cover_picture: images/JS.jpg
 ---
 
 ## 前言

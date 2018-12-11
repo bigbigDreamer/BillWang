@@ -1,12 +1,15 @@
 ---
 title: vue生产环境与开发环境跨域详解
 date: 2018-11-23 09:23:01
+categories:
+- Vue
 tags:
   - 跨域
   - vue
   - 开发环境
   - 生产环境
   - nginx
+cover_picture: images/Node.png
 ---
 
 ## 前言

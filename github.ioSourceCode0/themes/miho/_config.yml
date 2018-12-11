@@ -2,20 +2,20 @@
 # https://github.com/wongminho/hexo-theme-miho
 
 # Favicon of your site | 网站icon
-favicon: /favicon.ico
+favicon: images/alarm.ico
 
 # Header
 
 # Keywords of your site | 网站关键字
 keywords: BillWang's Blog
 # Head headline | 头部标题
-header_title: BillWang's Blog
+header_title: BigDreamer
 # Head description | 头部描述
-header_description: 小楼昨夜又东风
+header_description: 情不知所起，一往而深。
 # Link to your logo | logo地址
-logo: images/logo.png
+logo: images/logo.jpg
 # Link to your banner_img | 首页banner图地址
-banner_img: images/banner.jpg
+banner_img: images/ban.jpg
 # Menu setting | 菜单设置
 #  name:                  Font Awesome icon | Font Awesome 图标
 #    title: Home          Title | 标题
@@ -41,20 +41,16 @@ menu:
 #    target: true         Whether to jump out | 是否跳出
 social:
   home:
-    title: MinHow
-    url: //minhow.com
+    title: BillWang
+    url: //ivu1314.club
     target: true
   github:
     title: Github
-    url: //github.com/wongminho
+    url: https://github.com/bigbigDreamer
     target: true
-  weibo:
-    title: Weibo
-    url: //weibo.com/WongMinHo
-    target: true
-  twitter:
-    title: Twitter
-    url: //twitter.com/huangminhow
+  qq:
+    title: QQ
+    url: http://wpa.qq.com/msgrd?v=3&uin=1826001146&site=qq&menu=yes
     target: true
   #qq:
   #weixin:
@@ -74,7 +70,7 @@ excerpt_link: more>>
 # New window open link | 新窗口打开文章
 open_new_link: false
 # Article default cover picture，size：350*150 | 文章默认封面图，尺寸：350*150
-cover_picture: images/banner.jpg
+cover_picture: images/hexostart.jpg
 # Open background particles | 开启背景粒子
 open_bg_particle: true
 # Open animation in homepage and head | 开启主页及头部动画
@@ -108,8 +104,8 @@ reward:
 # Comments | 评论
 
 # 畅言，输入appid和appkey
-changyan_appid: false
-changyan_appkey: false
+changyan_appid: cytVQxp6s
+changyan_appkey: prod_8686c5c96a3bc67353ba410e4bcb37a9
 # 友言，输入id
 youyan_id: false
 # disqus
@@ -125,7 +121,7 @@ gitment:
 # 站长分析，输入站点id
 cnzz_analytics: false
 # 百度分析，输入key值
-baidu_analytics: false
+baidu_analytics: 490c72c80e7c5f485272ffc6d84c956b
 # google analytics | google分析
 google_analytics: false
 
@@ -138,4 +134,4 @@ access_counter:
   site_pv: 总访问量：
 
 # Copyright Information | 版权信息
-copyright: 2018 MinHow
+copyright: 2018 BillWang

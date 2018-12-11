@@ -1,6 +1,8 @@
 ---
 title: Linux文件系统
 date: 2018-11-13 16:57:14
+categories:
+- Linux
 tags:
   - Linux
   - EXT

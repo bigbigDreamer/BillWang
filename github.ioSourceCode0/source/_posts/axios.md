@@ -1,10 +1,13 @@
 ---
 title: axios的二次封装
 date: 2018-11-04 03:30:19
+categories:
+- ajax
 tags:
  - axios
  - ajax
  - Promise
+cover_picture: images/JS.jpg
 ---
 
 ## 前言

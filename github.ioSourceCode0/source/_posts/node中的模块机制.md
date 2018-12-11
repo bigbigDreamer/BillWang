@@ -1,10 +1,13 @@
 ---
 title: node中的模块机制
 date: 2018-11-29 20:41:30
+categories:
+- Node
 tags:
    - node
    - module.exports
    - exports
+cover_picture: images/Node.png
 ---
 
 ## 前言

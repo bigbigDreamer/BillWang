@@ -1,9 +1,12 @@
 ---
 title: Vue接入搜狐畅言评论模块
 date: 2018-11-24 01:05:28
+categories:
+- Vue
 tags:
   - 搜狐畅言
   - Vue
+cover_picture: images/vue.png
 ---
 
 ## 前言

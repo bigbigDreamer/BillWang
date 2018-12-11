@@ -1,11 +1,14 @@
 ---
 title: 设计模式之单例模式
 date: 2018-11-26 16:17:30
+categories:
+- 设计模式
 tags:
    - JavaScript
    - 设计模式
    - ES6
    - 单例模式
+cover_picture: images/pattern.jpg
 ---
 
 ## 前言
