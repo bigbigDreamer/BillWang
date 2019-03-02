@@ -7,9 +7,9 @@
 -------------------------------------------------------
 ##### *注意：在下载之前你必须做好两件事：*
 ##### *1.安装SetUp VPN,这样你才可以在谷歌商店畅通无阻；*
-![alt](https://github.com/bigbigDreamer/TheDiaryBook/blob/master/blogs%26%26tools/setupvpn.gif)
+![alt](https://github.com/bigbigDreamer/EricWang/tree/master/blogs%26%26tools/setupvpn.gif)
 ##### *2.安装插件你必须做的就是打开谷歌浏览器的扩展程序中的开发者模式；*
-![alt](https://github.com/bigbigDreamer/TheDiaryBook/blob/master/blogs%26%26tools/%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F.gif)
+![alt](https://github.com/bigbigDreamer/EricWang/tree/master/blogs%26%26tools/%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F.gif)
 
 --------------------------------------------------------------
 >十个插件带你玩转chrome，你准备好了吗？
@@ -19,12 +19,12 @@
 >>[Infinity 新标签页](https://chrome.google.com/webstore/detail/infinity-new-tabproductiv/dbfmnekepjoapopniengjbcpnbljalfg)
 >>>顾名思义，它是一个管理你的标签页（收藏页）的插件，那时候一开始的我，对于繁多的标签页也是耿耿于怀（因为真的太难受了）。但是这个插件
 让我陶醉它的美。   
-![alt](https://github.com/bigbigDreamer/TheDiaryBook/blob/master/blogs%26%26tools/inify.gif)
+![alt](/blogs%26%26tools/inify.gif)
 >>
 >>[Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme)
 >>>一款强大到你惊叹的插件，它可以精准测量网页元素的宽高，你可以试想，当UI给你网页设计原图的时候，你可以先把它放置于一个网页端，之后利用
 这个插件进行测量元素宽高比。而不用开启复杂的PS之类的工具，想想都美妙。  
-![alt](https://github.com/bigbigDreamer/TheDiaryBook/blob/master/blogs%26%26tools/pageroule.gif)
+![alt](https://github.com/bigbigDreamer/EricWang/tree/master/blogs%26%26tools/pageroule.gif)
 >>
 >>[Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 >>>Vue.js的调试工具，具体细节，相信接触了Vue的小伙伴肯定深有体会哦。
@@ -42,11 +42,11 @@
 >>>      3.在前两步完成之后还有问题的情况下启用：
 >>>        调整一下webpack.config.js的代码：如下图所示 
 >>>```
->>>  ![alt](https://github.com/bigbigDreamer/TheDiaryBook/blob/master/blogs%26%26tools/vue.js.png)
+>>>  ![alt](https://github.com/bigbigDreamer/EricWang/tree/master/blogs%26%26tools/vue.js.png)
 >>
 >>[ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 >>>一款可以采集网页元素颜色的工具，包含色彩三种格式，当然我更欣赏它的另外一个功能，它可以让开发者自己调节需要的渐变色，之后自动生成代码。   
-![alt](https://github.com/bigbigDreamer/TheDiaryBook/blob/master/blogs%26%26tools/colorpix.gif)
+![alt](https://github.com/bigbigDreamer/EricWang/tree/master/blogs%26%26tools/colorpix.gif)
 >>
 >>[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 >>>字面意思而言，这款插件就是可以让开发者知道，网页用了什么字体，字号多大，字体颜色如何。
